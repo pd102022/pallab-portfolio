@@ -1,20 +1,22 @@
-# Data Scientist
+# Material & Process Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: MATLAB, Python, COSMO-RS, Chemometrics, COMSOL-Multiphysics
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., Chemical University | IIT Guwahati, India (_November, 2019_)								       		
+- M. Tech., Chemical Engineering | IIT Kharagpur, India (_June, 2013_)	 			        		
+- B.E., Chemical Engineering | Gauhati University, India (_May 2017_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Research Fellow @ Nanyang Technological Univerity (_2019 - Feb 2023_)**
+- Developed processes of e-waste plastic decontamination using sustainable processes.
+- Developed industrially suitable automatic plastic sorting system using laser induced breakdown spectroscopy (LIBS) and machine learning.
+- Developped a thermochemical process to treat the contaminated plastic to produce clean fuel and gas.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Research Fellow @ Joined Nanyang Technological Univerity and Continental Automotive Pte. Ltd. (_Mar 2023 - Aug 2023_)**
+- _Exploring Electronic Component Reusability_: Conducted a comprehensive feasibility study on the potential reusability of electronic components extracted from automotive Printed Circuit Boards (PCBs) through meticulous disassembly and advanced AI-driven sorting.
+- _Strategic Business Model_: Formulated a business model to assess the economic viability and sustainability of reutilizing these electronic components, highlighting their financial implications.
+- _Holistic Carbon Footprint Analysis_: Pioneered a model for the comprehensive evaluation of the total carbon footprint, specifically in the context of reusing discarded electronic components, providing insights into environmental impact.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
