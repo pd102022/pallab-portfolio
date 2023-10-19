@@ -9,11 +9,11 @@
 
 ## Work Experience
 **Research Fellow @ Nanyang Technological Univerity (_2019 - Feb 2023_)**
-- Developed processes of e-waste plastic decontamination using sustainable processes.
-- Developed industrially suitable automatic plastic sorting system using laser induced breakdown spectroscopy (LIBS) and machine learning.
-- Developped a thermochemical process to treat the contaminated plastic to produce clean fuel and gas.
+- _Advanced E-Waste Plastic Decontamination Methods_: Engineered environmentally sustainable techniques for the decontamination of e-waste plastics, contributing to cleaner and safer recycling processes.
+- _Cutting-Edge Industrial Plastic Sorting Automation_: Pioneered an industrially adaptable automatic plastic sorting system by integrating Laser-Induced Breakdown Spectroscopy (LIBS) and machine learning, optimizing plastic waste management.
+- _Innovative Thermochemical Conversion_: Innovated a thermochemical process designed to effectively treat contaminated plastics, transforming them into clean, eco-friendly fuel and gas resources.
 
-**Research Fellow @ Joined Nanyang Technological Univerity and Continental Automotive Pte. Ltd. (_Mar 2023 - Aug 2023_)**
+**Research Fellow @ Collaboration Nanyang Technological Univerity and Continental Automotive Pte. Ltd. (_Mar 2023 - Aug 2023_)**
 - _Exploring Electronic Component Reusability_: Conducted a comprehensive feasibility study on the potential reusability of electronic components extracted from automotive Printed Circuit Boards (PCBs) through meticulous disassembly and advanced AI-driven sorting.
 - _Strategic Business Model_: Formulated a business model to assess the economic viability and sustainability of reutilizing these electronic components, highlighting their financial implications.
 - _Holistic Carbon Footprint Analysis_: Pioneered a model for the comprehensive evaluation of the total carbon footprint, specifically in the context of reusing discarded electronic components, providing insights into environmental impact.
