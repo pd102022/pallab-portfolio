@@ -1,5 +1,7 @@
 # Dr. Pallab Das
 
+![Portrait of Dr. Pallab Das](assets/img/PD.png)
+
 ### Chemical Engineering | Sustainable Resource Recovery | AI-Assisted Material Characterization
 
 Research Fellow at **Nanyang Technological University, Singapore**
