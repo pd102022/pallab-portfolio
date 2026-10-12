@@ -1,55 +1,129 @@
-# Data Scientist
+# Dr. Pallab Das
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+### Chemical Engineering | Sustainable Resource Recovery | AI-Assisted Material Characterization
+
+Research Fellow at **Nanyang Technological University, Singapore**
+
+I am a chemical engineering researcher working on plastic and electronic waste valorisation, thermal degradation kinetics, and sustainable resource recovery. My research combines experimental process development with spectroscopy, machine learning, and techno-economic assessment to improve material separation, recycling, and reuse.
+
+My doctoral research at IIT Guwahati focused on the thermal degradation and slow pyrolysis of packaging plastic waste. At NTU, my work has expanded to contaminant removal from e-waste plastics, AI-assisted material identification, and electronic-component recovery for circular manufacturing.
+
+## Technical Skills
+
+- **Chemical engineering:** Pyrolysis, thermal degradation kinetics, solvent extraction, process development, and process optimization.
+- **Data science:** Python, MATLAB, chemometrics, spectral preprocessing, feature extraction, and supervised machine learning.
+- **Machine learning methods:** Support vector machines, random forests, K-nearest neighbours, multilayer perceptrons, and convolutional neural networks.
+- **Characterization:** Laser-induced breakdown spectroscopy, FTIR, GC-MS, NMR, and thermal analysis.
+- **Modelling and assessment:** Techno-economic analysis, life-cycle assessment, COSMO-RS, and Design-Expert; additional training in Aspen Plus and COMSOL Multiphysics.
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+
+- **Ph.D. in Chemical Engineering** | Indian Institute of Technology Guwahati, India | 2019  
+  Thesis: *Thermal degradation of packaging waste and its conversion into fuel by pyrolysis.*
+
+- **M.Tech. in Chemical Engineering** | Indian Institute of Technology Kharagpur, India | 2013  
+  Research on bubble dynamics and bubble–bubble interactions in viscous and viscoelastic fluids using laser-based optical measurements and high-speed imaging.
+
+- **B.E. in Chemical Engineering** | Assam Engineering College, Gauhati University, India | 2011
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+### Research Fellow | Nanyang Technological University, Singapore
+*May 2019 – Present*
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+- Developed solvent-extraction approaches to remove brominated flame retardants from e-waste plastics and recover purified polymer fractions.
+- Investigated mild-acid treatment for removing heavy-metal contaminants from waste PVC.
+- Developed LIBS-based machine-learning models for e-waste plastic classification, achieving classification accuracy of up to approximately 99% in the evaluated datasets.
+- Used Python and MATLAB for spectral processing, statistical analysis, machine-learning development, visualization, and experimental workflow automation.
+- Conducted techno-economic evaluation of electronic-component recovery and reuse, considering throughput, recovery performance, capital investment, and operating costs.
+- Contributed to NTU-SCARCE and Aumovio/Continental collaborative research on PCB dismantling, automotive electronics, component reuse, and circularity.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+## Research Projects
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Plastic Waste Valorisation through Slow Pyrolysis
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+Investigated the conversion of packaging plastic waste into hydrocarbon products through low-temperature slow pyrolysis. Studied how process conditions, feed composition, and heating programmes influence product yield and composition. Combined product characterization with kinetic analysis to understand degradation behaviour and inform process development.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+[Publication: Valorization of packaging plastic waste by slow pyrolysis](https://doi.org/10.1016/j.resconrec.2017.09.025)  
+[Publication: The effect of slow pyrolysis on the conversion of plastic waste into fuel](https://doi.org/10.1016/j.wasman.2018.08.021)
 
-![Bike Study](/assets/img/bike_study.jpeg)
+### Thermal Degradation Kinetics and Modelling
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+Applied isoconversional and kinetic modelling methods to investigate plastic degradation under isothermal and non-isothermal conditions. Examined kinetic parameters, model selection, and multistep degradation behaviour, including the influence of additives.
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+[Publication: Thermal degradation kinetics of plastics and model selection](https://doi.org/10.1016/j.tca.2017.06.001)  
+[Publication: Multistep kinetic analysis of additive-enhanced plastic degradation](https://doi.org/10.1016/j.cej.2024.150960)
+
+### Recovery of Clean Polymers from Contaminated E-Waste Plastics
+
+Developed separation and purification approaches for recovering polymers from contaminated electronic waste. Research includes solvent extraction of brominated flame retardants and weak-acid treatment of contaminated PVC, with an emphasis on contaminant removal and material recovery.
+
+[Publication: Enhanced extraction of brominated flame retardants from e-waste plastics](https://doi.org/10.1016/j.cej.2023.144126)  
+[Publication: Activated recovery of PVC from contaminated waste extension cord-cable using a weak acid](https://doi.org/10.1016/j.chemosphere.2022.134878)
+
+### AI-Assisted Identification of E-Waste Plastics
+
+Integrated laser-induced breakdown spectroscopy with machine learning to classify plastic resins from electronic waste. The workflow combines spectral preprocessing, feature analysis, and classification using conventional machine-learning and neural-network methods to support automated sorting.
+
+[Publication: AI-enabled spectral classification of plastic resins from E-waste](https://doi.org/10.1016/j.resconrec.2025.108660)
+
+### Electronic-Component Recovery and Reuse
+
+Evaluated the techno-economic feasibility of recovering electronic components from waste printed circuit boards for reuse. Assessed process throughput, recovery performance, and capital and operating requirements to identify opportunities for circular practices in automotive electronics.
+
+[Publication: Techno-economic evaluation of electronic component recovery for reuse from waste PCBs](https://doi.org/10.1007/s44498-026-00028-w)
+
+## Research Interests
+
+- Sustainable plastic and electronic-waste recycling.
+- Thermochemical conversion and waste valorisation.
+- Reaction kinetics and material degradation.
+- Machine learning and data-driven modelling in chemical engineering.
+- Chemometrics and AI-assisted spectroscopic characterization.
+- Process modelling and optimization.
+- Techno-economic and life-cycle assessment.
+- Resource recovery and circular manufacturing.
+
+## Selected Conference Presentations
+
+- **Sustainable solutions to recover clean polymer from contaminated e-waste plastics** — AKC, Singapore, 2022.
+- **Sustainable Strategies to Recycle Waste Electrical and Electronic Plastics by Thermochemical Processes** — AIChE Annual Meeting, Orlando, USA, 2019.
+- **Waste plastics: Thermal degradation kinetics and lab-scale pyrolysis** — ISCRE, Florence, Italy, 2018.
+- **Kinetics of thermal degradation of plastic waste and their conversion into liquid fuel by slow pyrolysis** — Symposium on Advances in Sustainable Polymers, IIT Guwahati, India, 2017.
+- **Pyrolysis of three common plastics and optimization of process parameters targeting value added hydrocarbon products** — MRSI Symposium, CSIR-NEIST, Jorhat, India, 2016.
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
-- [Data Science Blog](https://medium.com/@shawhin)
+1. **Das, P.**, Leonardi, A., Yan, Q., Peier, K., and Gabriel, J.-C. P. (2026). Techno-economic evaluation of electronic component recovery for reuse from waste PCBs: advancing circular economy practices in automotive electronics. *Journal of Industrial Ecology*, 30, 405–419. [DOI](https://doi.org/10.1007/s44498-026-00028-w)
+
+2. **Das, P.**, Zeng, Q., Sirven, J.-B., Lee, J.-M., and Gabriel, J.-C. P. (2026). AI-enabled spectral classification of plastic resins from E-waste via laser-induced breakdown spectroscopy for advanced sorting applications. *Resources, Conservation and Recycling*, 226, 108660. [DOI](https://doi.org/10.1016/j.resconrec.2025.108660)
+
+3. **Das, P.**, Tiwari, P., and Lee, J.-M. (2024). Multistep kinetic analysis of additive-enhanced plastic degradation. *Chemical Engineering Journal*, 488, 150960. [DOI](https://doi.org/10.1016/j.cej.2024.150960)
+
+4. **Das, P.**, Zeng, Q., Leybros, A., Gabriel, J.-C. P., Tay, C. Y., and Lee, J.-M. (2023). Enhanced extraction of brominated flame retardants from e-waste plastics. *Chemical Engineering Journal*, 469, 144126. [DOI](https://doi.org/10.1016/j.cej.2023.144126)
+
+5. Jia, C., **Das, P.**, Zeng, Q., Gabriel, J.-C. P., Tay, C. Y., and Lee, J.-M. (2022). Activated recovery of PVC from contaminated waste extension cord-cable using a weak acid. *Chemosphere*, 303, 134878. [DOI](https://doi.org/10.1016/j.chemosphere.2022.134878)
+
+6. Jia, C., **Das, P.**, Kim, I., Yoon, Y.-J., Tay, C. Y., and Lee, J.-M. (2022). Applications, treatments, and reuse of plastics from electrical and electronic equipment. *Journal of Industrial and Engineering Chemistry*, 110, 84–99. [DOI](https://doi.org/10.1016/j.jiec.2022.03.026)
+
+7. **Das, P.**, Gabriel, J.-C. P., Tay, C. Y., and Lee, J.-M. (2021). Value-added products from thermochemical treatments of contaminated e-waste plastics. *Chemosphere*, 269, 129409. [DOI](https://doi.org/10.1016/j.chemosphere.2020.129409)
+
+8. **Das, P.**, and Tiwari, P. (2019). Thermal degradation study of waste polyethylene terephthalate (PET) under inert and oxidative environment. *Thermochimica Acta*, 679, 178340. [DOI](https://doi.org/10.1016/j.tca.2019.178340)
+
+9. **Das, P.**, and Tiwari, P. (2018). The effect of slow pyrolysis on the conversion of plastic waste into fuel. *Waste Management*, 79, 615–624. [DOI](https://doi.org/10.1016/j.wasman.2018.08.021)
+
+10. **Das, P.**, and Tiwari, P. (2018). Valorization of packaging plastic waste by slow pyrolysis. *Resources, Conservation and Recycling*, 128, 69–77. [DOI](https://doi.org/10.1016/j.resconrec.2017.09.025)
+
+11. **Das, P.**, and Tiwari, P. (2017). Thermal degradation kinetics of plastics and model selection. *Thermochimica Acta*, 654, 191–202. [DOI](https://doi.org/10.1016/j.tca.2017.06.001)
+
+## Certification
+
+**Machine Learning** — Stanford University, through Coursera; online non-credit course.
+
+## Contact
+
+- **Email:** [pallab.das@ntu.edu.sg](mailto:pallab.das@ntu.edu.sg)
+- **Personal email:** [pallab.cv13@gmail.com](mailto:pallab.cv13@gmail.com)
+- [Google Scholar](https://scholar.google.com/citations?user=78T-abAAAAAJ&hl=en)
+- [LinkedIn](https://www.linkedin.com/in/dr-pallab-das-72395a109/)
+- [ORCID](https://orcid.org/0000-0003-4291-8365)
