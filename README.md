@@ -23,10 +23,10 @@ My doctoral research at IIT Guwahati focused on the thermal degradation and slow
 - **Ph.D. in Chemical Engineering** | Indian Institute of Technology Guwahati, India | 2019  
   Thesis: *Thermal degradation of packaging waste and its conversion into fuel by pyrolysis.*
 
-- **M.Tech. in Chemical Engineering** | Indian Institute of Technology Kharagpur, India | 2013  
+- **M.Tech. in Chemical Engineering** | Indian Institute of Technology Kharagpur, India | 2013.  
   Research on bubble dynamics and bubble–bubble interactions in viscous and viscoelastic fluids using laser-based optical measurements and high-speed imaging.
 
-- **B.E. in Chemical Engineering** | Assam Engineering College, Gauhati University, India | 2011
+- **B.E. in Chemical Engineering** | Assam Engineering College, Gauhati University, India | 2011.
 
 ## Work Experience
 
